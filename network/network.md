@@ -1,4 +1,3 @@
-📄 network/network.md
 # Network Specification
 ## Networks
 | Name | CIDR | Gateway | Hosts | Purpose |
